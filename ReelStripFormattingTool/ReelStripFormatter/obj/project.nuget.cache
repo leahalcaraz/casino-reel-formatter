@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+e8FKOn1dT1tk7DcTfHNW7QTkZT7LRiF/28dxXR5dpY8+MotNu6obCnv/VT63DB6oUWuj5MzscHFaBTI7X+uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leah\\OneDrive\\Documents\\GitHub\\be_helpers\\ReelStripFormattingTool\\ReelStripFormatter\\ReelStripFormatter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leah\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
